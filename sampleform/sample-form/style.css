@@ -1,0 +1,11 @@
+#adress{
+    height: 60px;
+}
+
+
+#container{
+    width: 350px;
+    height: 650px;
+    border: 2px solid black;
+    text-align: center;
+}
